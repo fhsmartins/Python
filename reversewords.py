@@ -1,6 +1,5 @@
 """
-Problem Statement: Refer to readme.md file.
-Author: striker
+Author: fhsmartins
 """
 
 def reverse_words_and_swap_cases(sentence: str) -> str:
